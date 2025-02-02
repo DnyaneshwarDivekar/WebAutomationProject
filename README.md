@@ -52,7 +52,7 @@ Logs are stored in the `logs` folder with the name `automation.log`.
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WebAutomationProject.git
+   git clone https://github.com/DnyaneshwarDivekar/WebAutomationProject.git
    ```
 
 2. Navigate to the project directory:
